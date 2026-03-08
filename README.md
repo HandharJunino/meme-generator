@@ -2,6 +2,10 @@
 
 A fun and simple React application that allows users to create custom memes by adding text to randomly selected meme images.
 
+## Live Demo
+
+Check out the live version: [simple-meme-gen.netlify.app](https://simple-meme-gen.netlify.app)
+
 ## Features
 
 - **Random Meme Images**: Fetches a collection of popular meme templates from the Imgflip API
